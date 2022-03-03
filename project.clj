@@ -3,9 +3,9 @@
   :url "https://github.com/priornix/antizer"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.10.1"]
-                 [org.clojure/clojurescript "1.10.520"]
-                 [cljsjs/antd "3.26.17-0"]
+  :dependencies [[org.clojure/clojure "1.10.3"]
+                 [org.clojure/clojurescript "1.11.4"]
+                 [cljsjs/antd "4.6.1-0"]
                  [cljsjs/moment "2.24.0-0"]]
   :plugins [[lein-codox "0.10.3"]]
   :codox {:language :clojurescript
